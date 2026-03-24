@@ -25,8 +25,8 @@ const quizData = [
         correct: 2 // (C) 4
     },
     {
-        question: "QUESTÃO 13: Os animais de uma fazenda são separados em grupos. A expressão algébrica que permite determinar a quantidade de animais em relação ao número da área cercada (n) é:",
-        image: "",
+        question: "QUESTÃO 13: Os animais de uma fazenda são separados em grupos de quantidades diferentes e colocados em áreas cercadas, numeradas de 1 a 5, que estão uma ao lado da outra. A quantidade de animais em cada área, forma uma sequência que está especificada na tabela. A expressão algébrica que permite determinar a quantidade de animais em cada área dessa fazenda em relação ao número da área cercada (n) é",
+        image: "Q13.png",
         options: ["4n", "19n", "n + 3", "3n + 1", "16n + 3"],
         correct: 3 // (D) 3n + 1
     },
